@@ -1,4 +1,4 @@
 # AntiRedstoneCrashPlugin
 This plugin allowing anti crash redstone
 
-Download: [click here](http://cdn.nkcf.tk/antiredstonecrash)
+Download: [click here](http://cdn.nkcf.tk/antiredstonecrash.jar)
